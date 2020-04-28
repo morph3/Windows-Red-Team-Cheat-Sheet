@@ -1,5 +1,5 @@
 For fancy graphics
-<https://morph3sec.com/2019/07/16/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/>
+<https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/>
 
 # &nbsp;&nbsp;&nbsp;&nbsp; Recon
 

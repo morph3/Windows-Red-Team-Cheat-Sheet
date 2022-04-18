@@ -1,5 +1,4 @@
-For fancy graphics
-<https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/>
+This readme is now outdated, using https://notes.morph3.blog
 
 # &nbsp;&nbsp;&nbsp;&nbsp; Recon
 
